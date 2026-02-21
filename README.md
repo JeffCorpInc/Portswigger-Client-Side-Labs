@@ -13,7 +13,7 @@ All activities are performed on Portswigger Lab Environment for educational/lear
 
 | # | Topic | Labs |
 |---|------|-------------------|
-| 1 | Cross-site Scripting | [Sensitive Data Disclosure on OWASP Mutillidae II](1-Directory-Enumeration) |
+| 1 | Cross-site Scripting | [XSS](1-XSS-Vulnerability-Testing) |
 | 2 | Cross-site request forgery (CSRF) |  |
 | 3 | Cross-origin resource sharing (CORS) |  |
 | 4 | Clickjacking |  |
