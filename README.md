@@ -13,7 +13,7 @@ All activities are performed on Portswigger Lab Environment for educational/lear
 
 | # | Topic | Labs |
 |---|------|-------------------|
-| 1 | Cross-site Scripting | [XSS](1-XSS-Vulnerability-Testing) |
+| 1 | Cross-site Scripting | [XSS Vulnerability Testing](1-XSS-Vulnerability-Testing) |
 | 2 | Cross-site request forgery (CSRF) |  |
 | 3 | Cross-origin resource sharing (CORS) |  |
 | 4 | Clickjacking |  |
